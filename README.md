@@ -16,7 +16,9 @@ This tool automatically pulls your Assignments, Announcements, and Events from C
 1. Log in to Canvas.
 2. Go to **Account** → **Settings**.
 3. Scroll down to **Approved Integrations** and click **+ New Access Token**.
-4. Name it "Calendar" and copy the long code it gives you.
+4. Name it "Calendar" and copy the long code it gives you. (DO NOT FORGET THIS TOKEN)
+5. this token is only available for four months so add a date four months in advance
+
 
 ### Step 3: Add Your Secrets (The Important Part)
 1. Go to your new repository's **Settings** tab.
@@ -28,6 +30,8 @@ This tool automatically pulls your Assignments, Announcements, and Events from C
 | `CANVAS_API_KEY` | Paste the long token you just copied. |
 | `CANVAS_API_URL` | Paste our school's Canvas URL (e.g., `https://canvas.instructure.com`). *Must start with https://* |
 | `MY_TIMETABLE` | (Optional) Your class schedule. See the code block below. |
+
+PLEASE KEEP THE NAMING CONVENTION THE SAME
 
 #### 📝 How to format `MY_TIMETABLE`
 Copy the code below and change the days to match your schedule.
