@@ -64,7 +64,7 @@ Under Branch, select main and click Save.
 
 Your calendar link will appear at the top!
 
-It will look like: https://<your-username>.github.io/canvas-calendar/my_schedule.ics
+It will look like: https://(your-username).github.io/canvas-calendar/my_schedule.ics
 
 Step 6: Add to Phone
 iPhone: Settings → Apps → Calendar → Calendar Accounts → Add Account → Other → Add Subscribed Calendar.
