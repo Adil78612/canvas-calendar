@@ -81,12 +81,6 @@ UID:d2b8875a-c622-48df-a680-687f670896fe@d2b8.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
-DESCRIPTION:Originally Posted: 2026-01-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/61791\n\n<p>Dear Students\,</p>\n<p>Quiz 1 is scheduled to happen on 28 Jan at 8:40 am for a duration of 20 min on the following topics:</p>\n<p>1- Introduction to SE and SDLC</p>\n<p>2- Software Process Models</p...
-SUMMARY:📢 Quiz 1 on 28 Jan 2026 (CS/CE 353/374-L2)
-UID:e4342679-b663-4eb1-a966-787436923f37@e434.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260120
 DESCRIPTION:Originally Posted: 2026-01-20\nhttps://hulms.instructure.com/courses/5043/discussion_topics/61758\n\n<p data-path-to-node="4">Hello everyone\,</p>\n<p data-path-to-node="5">I will be holding counseling hours every Tuesday and Thursday. Please feel free to stop by if you have any questions or concerns.<...
 SUMMARY:📢 Counseling hours Dr. M. Sami Siddiqui (MATH 205-L1\,L2\,L3\,L4\,L5)
 UID:5e1967e7-db65-467e-825f-e22dc264765b@5e19.org
@@ -145,4 +139,5 @@ DESCRIPTION:Originally Posted: 2026-01-01\nhttps://hulms.instructure.com/courses
 SUMMARY:📢 Prep Material for LA (MATH 205-L1\,L2\,L3\,L4\,L5)
 UID:8a0cf621-ab55-42b4-885d-aec76cf48e5b@8a0c.org
 END:VEVENT
+
 END:VCALENDAR
