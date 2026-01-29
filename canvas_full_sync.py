@@ -111,13 +111,18 @@ def main():
 
         try:
             # 1. Assignments
-            for assign in course.get_assignments(bucket='upcoming'):
+            # --- 1. ASSIGNMENTS FIX ---
+            # Removed bucket='upcoming' so we get everything
+            for assign in course.get_assignments():
                 if assign.due_at:
-                    e = Event()
-                    e.name = f"📝 {assign.name} ({course.course_code})"
-                    e.begin = assign.due_at
-                    e.description = assign.html_url
-                    cal.events.add(e)
+                    # Manually check if it's recent or future
+                    # (Canvas dates are ISO strings, so string comparison works for YYYY-MM-DD)
+                    if assign.due_at > start_date:
+                        e = Event()
+                        e.name = f"📝 {assign.name} ({course.course_code})"
+                        e.begin = assign.due_at
+                        e.description = assign.html_url
+                        cal.events.add(e)
             
             # 2. Announcements
             for ann in course.get_discussion_topics(only_announcements=True):
@@ -147,3 +152,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
