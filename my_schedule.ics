@@ -2,549 +2,531 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260201
-DESCRIPTION:Originally Posted: 2026-02-01\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62167\n\n<p><span style="font-family: 'Lato Extended'\, 'Helvetica Neue'\, Helvetica\, Arial\, sans-serif\;">Hey students\,</span></p>\n<p style="text-align: left\;"><span style="font-family: 'Lato Extended'\, 'Helveti...
-SUMMARY:📢 Recitations for Week 4 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:839f3bb4-c584-43c5-8947-7cc49c8f375f@839f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/62990
-DTSTART:20260427T223000Z
-SUMMARY:📝 Assigned Q & A (Class)  (PHIL 212-S1)
-UID:dabfa621-ba7d-45da-968d-1208dc2ccabf@dabf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/64094
-DTSTART:20260307T185500Z
-SUMMARY:📝 HW 02 (CS 363-L1)
-UID:0cb185c5-fbf6-4c0c-966c-1f5cb66c1a4b@0cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63041
-DTSTART:20260213T040000Z
-SUMMARY:📝 Read: Hanif and Khatri (CND 107-S1\,S2\,S3\,S4)
-UID:3003bd91-1265-48ea-b1fe-7f2f173deb34@3003.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62381\n\n<p>Dear Students\,</p>\n<p>The grades for Quiz 01 have been released. You may discuss your quiz with me tomorrow during my office hours (12 pm to 2 pm) if you wish.</p>\n<p>Best\,</p>\n<p>Asad</p>...
-SUMMARY:📢 [Quiz 01] Grades Released (CS 363-L1)
-UID:862aab95-1f32-46b6-a17d-31476af547a0@862a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62959\n\n<p>will share the link tomorrow</p>...
-SUMMARY:📢  Online Session Tomorrow at 10:30 PM— All L4 Students are also Welcome! (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:c12e801c-fc2a-4df5-a8ca-cbe7faf25d29@c12e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/61338
-DTSTART:20260427T185900Z
-SUMMARY:📝 Professionalism Assessment (CND 107-S1\,S2\,S3\,S4)
-UID:a585e47c-1c6c-4b70-9274-fa4c3279b99a@a585.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62731\n\n<p>Dear Students:</p>\n<p>Please make sure to review all the materials shared on Canvas\, including practice problems\, reading notes etc. Working through these resources will help reinforce the concepts...
-SUMMARY:📢 Preparation material on Canvas (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:e85acbfe-6af9-45e4-844d-7c22a2412033@e85a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63859
-DTSTART:20260218T230000Z
-SUMMARY:📝 2.1: Where the Rubber... (PHIL 212-S1)
-UID:981be4ae-5784-47f9-8114-580c74d43807@981b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63417
-DTSTART:20260217T093000Z
-SUMMARY:📝 Dear  (PHIL 212-S1)
-UID:39ff4fcc-43d6-45b3-bd60-4401b6d091da@39ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62941\n\n<p>Dear Students\,</p>\n<p>Homework 02 has been released. You can find it in the assignments module on the course site.</p>\n<p>Please make sure that you follow the instructions mentioned on the submissi...
-SUMMARY:📢 [Homework 02] 21st February (CS 363-L1)
-UID:c8a88018-5643-4a0b-a0fd-fe94a586576d@c8a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62463
-DTSTART:20260430T185900Z
-SUMMARY:📝 S2 End-semester CP Grade (CND 107-S1\,S2\,S3\,S4)
-UID:b938e9e1-1abc-4303-8e5f-84225b173a63@b938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63631
-DTSTART:20260211T100000Z
-SUMMARY:📝 Quiz 2 (CS/CE 353/374-L2)
-UID:723b3a56-3797-4330-b0c4-0ebaa03bada2@723b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62608\n\n<p>Dear Students\,</p>\n<p>As discussed in class yesterday\, Quiz 02 will be held on <strong>Thursday 19th February.</strong></p>\n<p>The topics of the quiz include: <strong>the E-R Random Graph/Network M...
-SUMMARY:📢 [Quiz 02] 19th February (CS 363-L1)
-UID:bfc2395d-c0bf-4413-be2b-aad6263194d3@bfc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62123\n\n<p>Dear Students\,</p>\n<p>I hope you all are doing well.</p>\n<p>This is a final reminder to sign up for project teams on Canvas. Deadline is today\, 11:59 p.m. Anyone who isn't able to form their team b...
-SUMMARY:📢 Reminder for Project Team signup (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:1b037c50-c00a-4cfb-b88e-3f1b714568cb@1b03.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62536\n\n<p>Dear students:</p>\n<p>Given that we have regular quizzes on the course\, the midterm approaching\, and with some cases of malpractice popping up\, we would like to update and reiterate to everyone the...
-SUMMARY:📢 URGENT: Procedure for Dealing with Cheating Cases (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:3049b3b4-d06a-4667-96f9-dd4d4eae2648@3049.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62590\n\n<p>Dear Students:</p>\n<p>Due to some unavoidable circumstances\, I will not be able to conduct today's class (Friday\, Feb 13).&nbsp\; Missed session will be accordingly rescheduled in coordination with ...
-SUMMARY:📢 Class Cancellation Notice - Today (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:938d9789-5d34-46d9-a0a8-f3b78525f7bb@938d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260128
-DESCRIPTION:Originally Posted: 2026-01-28\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62062\n\n<p>Dear students:</p>\n<p>I would like to clarify some important points based on queries instructors have received. Please do take note of these and ensure you're following the rules outlined here:</p>...
-SUMMARY:📢 Instructions: HWs\, Recitations\, Quizzes (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:75f4dbd4-eb1b-45e8-a0ee-516c1e7a5dc1@75f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40267
-DTSTART:20261212T185959Z
-SUMMARY:📝 Proposal (Khidmat)
-UID:87277f1c-7263-403a-971f-88435e2256f0@8727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/64165
-DTSTART:20260219T092500Z
-SUMMARY:📝 Q2: Quiz 2 (CS 363-L1)
-UID:cb392978-b06f-4028-8327-88b6f24a6ab5@cb39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/63411
-DTSTART:20260203T112500Z
-SUMMARY:📝 Q1: Quiz 1 (CS 363-L1)
-UID:71550fa1-da36-45ff-8716-b38a7a007232@7155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63982
-DTSTART:20260306T185959Z
-SUMMARY:📝 Braided Essay -- Module 2 Writing Assignment (CND 107-S1\,S2\,S3\,S4)
-UID:b3204dfe-b8ba-48e6-a44c-2cb803a5fd3e@b320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63039
-DTSTART:20260204T040000Z
-SUMMARY:📝 Optional: Watch K-Pop Demon Hunters (CND 107-S1\,S2\,S3\,S4)
-UID:fffe8f67-0bfa-4aa6-ae6e-e4e3b85eabc5@fffe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62935\n\n<p>Dear Students\,</p>\n<p>Please find below Trello Board Structure:</p>\n<p>1- Assets</p>\n<p>2- Product Backlog</p>\n<p>3- Sprint Backlog</p>\n<p>4- Sprint Dev in Progress</p>\n<p>5- Sprint Dev Completed</...
-SUMMARY:📢 Trello Board Structure (CS/CE 353/374-L2)
-UID:c6932ab4-c595-4aa4-b8e2-ed452733197f@c693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63217
-DTSTART:20260210T185900Z
-SUMMARY:📝 First Reflection  (PHIL 212-S1)
-UID:33c9787b-fe90-4f3a-a20c-53ccf5de9522@33c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63085
-DTSTART:20260130T063000Z
-SUMMARY:📝 Session 6 (Jan 30) Writing Workshop (CND 107-S1\,S2\,S3\,S4)
-UID:2addf005-b9bf-4942-b671-89bb9c9bb389@2add.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Originally Posted: 2026-02-01\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62164\n\n<p><span>I’m writing to give you an earlier-than-usual and longer-than-usual update for the week\, with some instructions for Tuesday. </span></p>\n<p>&nbsp\;</p>\n<p>On <strong>Tuesday (Feb 3rd)</strong>...
-SUMMARY:📢 Where the Rubber meets the Road\, Part 1! (Tuesday\, Feb 3rd) (PHIL 212-S1)
-UID:16623d96-aaad-4492-a8b5-41f55424116d@1662.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63070\n\n<p><span>Folks\, please accept my apologies. I will be traveling back to Karachi tomorrow morning. I will definitely schedule one session tomorrow at 10:00 PM\, and I will also make myself available on ...
-SUMMARY:📢 Sessions Tommorow  (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:919afa85-57e6-4a65-a446-b0d2d6a051cc@919a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63497
-DTSTART:20260215T185959Z
-SUMMARY:📝 WC04 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:db0937ea-2a93-4783-912a-e116415333f1@db09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61057
-DTSTART:20260129T185900Z
-SUMMARY:📝 Qz3 (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:4a175025-7837-4049-89af-eb6cfbb3fed2@4a17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/62879
-DTSTART:20260207T185500Z
-SUMMARY:📝 HW 01 (CS 363-L1)
-UID:d61bd454-3336-4228-927d-250afcf5f8b0@d61b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4829/discussion_topics/63060\n\n<p>Dear all!</p>\n<p>I extended the submission deadline of the second reflection to<strong> Saturday\, 11:59 pm</strong>\, since most of you have midterms this week.&nbsp\;</p>\n<p>All the best\,&nbsp\;</p>\n...
-SUMMARY:📢 Second Reflection - Deadline Extended to Saturday 28th\, 23:59 pm (PHIL 212-S1)
-UID:a0281087-2d33-4e80-8dbb-4723d5ec93bc@a028.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63480
-DTSTART:20260309T185959Z
-SUMMARY:📝 CfP (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:8b544460-0950-4432-b3db-f3df98c823fb@8b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63987
-DTSTART:20260227T185959Z
-SUMMARY:📝 Read: Girl by Jamaica Kincaid (CND 107-S1\,S2\,S3\,S4)
-UID:27d26dea-cdb0-4825-b1fc-7aabbb32e18d@27d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63466
-DTSTART:20260225T185900Z
-SUMMARY:📝 HW1 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:571dbdb5-0372-4520-a97b-fc3c19e9c5e0@571d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260208
-DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62384\n\n<p><span style="font-size: 12pt\;">Hello Students\,&nbsp\;</span><br><span style="font-size: 12pt\;">I will be conducting the recitations this week on Monday and Wednesday from 1:30 pm to 2:30 pm. You are...
-SUMMARY:📢 Week 5 Recitations (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:9ba53877-cd7c-4052-8a90-2ba6aab44ee3@9ba5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63891
-DTSTART:20260228T185959Z
-SUMMARY:📝 Second Reflection  (PHIL 212-S1)
-UID:159140bf-df9d-4775-b4cf-6e56a3400872@1591.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63243
-DTSTART:20260208T185959Z
-SUMMARY:📝 WC03 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:58f07f9a-2768-4e0d-88a6-7063dcdd5bce@58f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62955\n\n<div><span>Dear all! </span></div>\n<div><span>Thank you for letting me know that you had issues seeing the posters (I was not aware of it). This is a great example of why I am a philosopher\, not a com...
-SUMMARY:📢 Reminder: Please comment on your peers' posters (due Tue\, 12:40 pm)  (PHIL 212-S1)
-UID:1149bd5b-33fa-4936-b1ac-3ff934b531d6@1149.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62695\n\n<div class="userMessage">\n<p>Dear Students\,</p>\n<p>The grades for Homework 01 have been released. You may discuss your homework with me tomorrow from 2 pm to 3 pm (if possible)\, or after our class if ...
-SUMMARY:📢 [Homework 01] Grades Released (CS 363-L1)
-UID:5d70cb51-0432-4f3c-abe3-853c68bf033b@5d70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260128
-DESCRIPTION:Originally Posted: 2026-01-28\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62046\n\n<div>\n<p><img src="https://as-api.asm.skype.com/v1/objects/0-jhb-d1-3e36ec9f8cf18695ceba6fd85948c748/views/imgo" alt="Media" width="2448" height="3264" loading="lazy"></p>\n<p>Anyone lost a notebook he...
-SUMMARY:📢  Notebook Found (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:65aa24c7-a82e-45ed-8608-9e1b54deaa03@65aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63986
-DTSTART:20260225T185959Z
-SUMMARY:📝 Read: American Fever by Dur-e-Aziz (CND 107-S1\,S2\,S3\,S4)
-UID:d4aad3c1-3f1b-49bd-aa5d-cde7c99d170c@d4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62312\n\n<p>Dear Students\,</p>\n<p>Project Work Guidelines document is Up on LMS for your reference.</p>\n<p>Regards</p>...
-SUMMARY:📢 Project Work Guidelines Document (CS/CE 353/374-L2)
-UID:c8082e4c-6e4b-47a7-908a-2fda54364f32@c808.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4829/discussion_topics/63017\n\n<h2 class="css-1366bzx-view-heading" dir="ltr" data-testid="message_title"><span><span aria-hidden="true">Reminder: Please comment on your peers' posters (due tomorrow\, 12:40 pm) </span></span></h2>\n<...
-SUMMARY:📢 Reminder 2: Please comment on your peers' posters (due tomorrow\, 12:40 pm) (PHIL 212-S1)
-UID:886f0982-290f-4c90-afce-1a5554db1874@886f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/62878
-DTSTART:20260201T185959Z
-SUMMARY:📝 WC02 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:6eb7f331-60dd-4517-a715-b8c635d06b1f@6eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260305
-DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62992\n\n<p>Dear Students\,</p>\n<p>The midterm exam will be held on <strong>5th March\, during the class timing and within the class.</strong></p>\n<p>The topics for the midterm include everything that we've done...
-SUMMARY:📢  [Midterm Exam] 5th March (CS 363-L1)
-UID:aefda3c7-e4e7-4a9f-824b-2a826c9af174@aefd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63044\n\n<div>\n<div class="" data-testid="notHighlighted">\n<div class="css-z2kb49-view--flex-flex" dir="ltr" data-testid="discussion-topic-container">\n<div class="css-r6pfkn-view" dir="ltr">\n<div class="userMe...
-SUMMARY:📢 Clarification: Mid Topics Content (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:4e3cb5b8-23a8-4bd5-ac8d-92012e039326@4e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62462
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62464
 DTSTART:20260315T185900Z
-SUMMARY:📝 S2 Mid-semester CP Grade (CND 107-S1\,S2\,S3\,S4)
-UID:1f677102-2335-4c70-8343-a233d0fc1fbe@1f67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63815
-DTSTART:20260222T185959Z
-SUMMARY:📝 WC05 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:c6af8bac-14d9-4655-82e5-ef34fb314f60@c6af.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Originally Posted: 2026-02-14\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62627\n\n<div><span>Dear all!</span></div>\n<div><span>Please keep in mind that the "Dear" reading assignment is due<strong> Feb 17th\, 02:30 pm</strong>.</span></div>\n<div><span>Part of the assignment is to pos...
-SUMMARY:📢 Annotated Reading Assignment "Dear" due Feb 17th\, 02:30 pm  (PHIL 212-S1)
-UID:25b5d088-6f63-438f-861a-58a40259cf2a@25b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63042
-DTSTART:20260218T040000Z
-SUMMARY:📝 Read: Riachuelo (CND 107-S1\,S2\,S3\,S4)
-UID:3246ca8d-3916-4087-9a43-8f03db77254b@3246.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62930\n\n<p>Dear Students\,</p>\n<p>As discussed in class\, we shall have our Mid Exam in class on Wed\, 25 Feb 2026 starting at 1 pm sharp with the following details:</p>\n<p>1- It will be paper based.</p>\n<p>2- S...
-SUMMARY:📢 Mid Term Exam on Wednesday\, 25 Feb 2026 at 1 pm Sharp (CS/CE 353/374-L2)
-UID:aa1487eb-4337-4c32-9ef8-6803fa4107f1@aa14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63014
-DTSTART:20260128T100000Z
-SUMMARY:📝 Quiz 1 (CS/CE 353/374-L2)
-UID:ae99a781-0bf3-4fa6-96ca-be3b486dc914@ae99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/64109
-DTSTART:20260224T074000Z
-SUMMARY:📝 2.2. New Where the Rubber  (PHIL 212-S1)
-UID:9f55d537-15ec-4a7a-b873-e1ddc60498f7@9f55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63381
-DTSTART:20260208T185900Z
-SUMMARY:📝 Project Proposal (CS/CE 353/374-L2)
-UID:97200e03-9254-470d-8290-3d9d22792066@9720.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-DESCRIPTION:Originally Posted: 2026-01-29\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62083\n\n<p>Hi all!&nbsp\;</p>\n<p>I extended the submission deadline of the Thagard assignment to <strong>tonight\, 11:59 pm</strong>.&nbsp\;</p>\n<p>All the best\,&nbsp\;</p>\n<p>Dr. Susanne Beiweis</p>...
-SUMMARY:📢 Thagard Assignment - Submission Deadline Extended  (PHIL 212-S1)
-UID:add32b01-d0b1-4cd8-b5f9-f58db99b8751@add3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63727
-DTSTART:20260222T185900Z
-SUMMARY:📝 Software Requirement Specification (CS/CE 353/374-L2)
-UID:a7c2397f-96b2-4f40-a179-2c1d3c4dbff0@a7c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-DESCRIPTION:Originally Posted: 2026-01-28\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62035\n\n<p>Dear Students\,</p>\n<p>I hope you all are doing well.</p>\n<p>You all need to join the project groups on Canvas max by 30th January\, Friday\, 11:59 p.m. After that\, it will close. Please make your gro...
-SUMMARY:📢 Project Group Joining Deadline (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:9a9fea0a-33e0-4ac2-9ae6-10e6b2592eff@9a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62759\n\n<p>tommorows sessions as per schedule\, next week probably go online</p>...
-SUMMARY:📢 F2F Lecture Tommorow (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:8ed534e1-bb26-4506-b70c-964d11b61092@8ed5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260306
-DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62950\n\n<p>Dear Students Section L4:</p>\n<p>Mid-term of the course will be held during the class-session on Friday\, March 6.&nbsp\; All material covered will be included.</p>...
-SUMMARY:📢 Section L4:  Mid-term Exam (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:62a53d40-7ebc-405f-a045-b9f8c45c11a0@62a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63144
-DTSTART:20260129T185959Z
-SUMMARY:📝 Quiz_01 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:933bf4b6-f30a-4b6e-b15f-3673bc7c8da9@933b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63991
-DTSTART:20260306T185959Z
-SUMMARY:📝 Watch: Arrested Development S1E1 (CND 107-S1\,S2\,S3\,S4)
-UID:dae9e28a-faa0-4cdb-989c-8f6890da6cf1@dae9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62932\n\n<p>Dear Students\,</p>\n<p>In order to provide more focus and prep time for Mid Term Exams\, we shall not have the regular class on Monday 23 Feb 2026.</p>\n<p>However\, I shall be available on Teams for a...
-SUMMARY:📢 No regular class on Monday 23 Feb 2026 (CS/CE 353/374-L2)
-UID:4595b0e2-1801-494d-921c-952c7a60c4a1@4595.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62122\n\n<p>Dear Students\,</p>\n<p>As mentioned in our class yesterday\, Quiz 01 will be held on <strong>Tuesday 3rd February.</strong></p>\n<p><strong>The quiz will be&nbsp\;on paper&nbsp\;and no additional materi...
-SUMMARY:📢 [Quiz 01] 3rd February (CS 363-L1)
-UID:999d8bab-3a3c-483e-bf93-b73f48cffbab@999d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62791
-DTSTART:20260206T183000Z
-SUMMARY:📝 Tabloid Dreams -- Module 1 Writing Assignment (CND 107-S1\,S2\,S3\,S4)
-UID:0d317d95-2301-43a1-838b-907fc5bc66b4@0d31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62550\n\n<p>Dear students:</p>\n<p><br>As discussed in the first session and as per the weekly outline in the syllabus\, the midterm exam for the course is scheduled during the upcoming exam weeks (Weeks 7 and 8...
-SUMMARY:📢 IMP: Details for Midterm Exam (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:955b6bfe-9629-4108-8148-6b59a2fd929c@955b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63113\n\n<p>Dear Students:<br><br>For the Midterm Part A this Thursday\, 26 Feb\, please note the following important instructions:</p>\n<ul>\n<li>You must report to Tariq Rafi latest by<span>&nbsp\;</span><span><s...
-SUMMARY:📢 IMP: Instructions for Midterm Tomorrow (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:9395e02a-a956-4ec1-8312-6edbe5fce1d8@9395.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260209
-DESCRIPTION:Originally Posted: 2026-02-09\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62416\n\n<p>Hello all\,<br>Todays recitation will now be conducted in powers lab\, as the previous location is already occupied. Sorry for the inconvenience.&nbsp\;</p>\n<p>Best\,</p>\n<p>Yashfeen</p>...
-SUMMARY:📢 Recitation location changed (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:39d3e579-662d-4c49-9f38-a6d558d06e34@39d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62909\n\n<p><span data-olk-copy-source="MessageBody">Dear Students (Section L4):</span></p>\n<p><span data-olk-copy-source="MessageBody">Makeup session has been scheduled on February 25\, 2026 from 2:10pm to 3:2...
-SUMMARY:📢 Section L4:  Make-up Session (Feb 25\, Wednesday) (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:81a45755-4b40-4e7a-8932-e83e409a23b6@81a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61056
-DTSTART:20260129T185900Z
-SUMMARY:📝 Qz2 (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:eff3a11e-c9a4-49cc-acd2-cd3a45a73f4d@eff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/64120
-DTSTART:20260302T185959Z
-SUMMARY:📝 WC06 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:f15efb8a-9e2e-4930-96ae-8090b86591c6@f15e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63988
-DTSTART:20260304T185959Z
-SUMMARY:📝 Read: A Temporary Matter by Jhumpa Lahiri (CND 107-S1\,S2\,S3\,S4)
-UID:6a284405-72ab-4f0e-9792-ecfcfe4cf620@6a28.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62704\n\n<p><strong><span>AI and Explanation</span></strong></p>\n<p><span>&nbsp\;</span></p>\n<p><span>Dear students\, </span></p>\n<p><span>As promised today in class\, here is some more information about our disc...
-SUMMARY:📢 Our Second "Where the Rubber Meets the Road" Discussion: AI & Explanation  (PHIL 212-S1)
-UID:05e5afbe-aeaf-4064-bf77-402fa3d69829@05e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62466
-DTSTART:20260430T185900Z
-SUMMARY:📝 S2 End-Semester Journal Grade (CND 107-S1\,S2\,S3\,S4)
-UID:5b8bd437-61b3-4316-9234-6adfcf711e6a@5b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40815
-DTSTART:20261231T185959Z
-SUMMARY:📝 Video (Khidmat)
-UID:4208c106-dce2-4fc7-b734-68b5f135765c@4208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61060
-DTSTART:20260219T185959Z
-SUMMARY:📝 Qz6 (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:872b8048-9d5a-40e0-a34f-1544ef78e10d@872b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40814
-DTSTART:20261231T185959Z
-SUMMARY:📝 Report (Khidmat)
-UID:6915bf9a-5e62-4b43-9429-4db82e35493e@6915.org
+SUMMARY:📝 S2 Mid-Semester Journal Grade (CND 107-S1\,S2\,S3\,S4)
+UID:9e741e87-d997-48c4-81d6-d3c0c856edbc@9e74.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63860
 DTSTART:20260223T230000Z
 SUMMARY:📝  2.3 Where the Rubber... (PHIL 212-S1)
-UID:ce5b4880-9ee9-44c1-86ad-263a09f6901c@ce5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Originally Posted: 2026-02-09\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62221\n\n<div><span>Dear all! </span></div>\n<div><span>Our class tomorrow will take place in H-505. We will be back in our normal classroom\, W242\, on Thursday\, Feb 12th. </span></div>\n<div><span>See you all to...
-SUMMARY:📢 Tomorrow's Class (Feb 10th) takes place in H-505  (PHIL 212-S1)
-UID:5add9c83-6a90-49d1-b37d-07473fc03006@5add.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63114\n\n<p><a href="https://teams.microsoft.com/meet/45360817600149?p=cSOtiazzaaWMBwhfiL" target="_blank">https://teams.microsoft.com/meet/45360817600149?p=cSOtiazzaaWMBwhfiL</a></p>\n<p>hoping to see you all ...
-SUMMARY:📢 online session (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:c080550a-54a0-45ba-bf87-0aa2ab05c0eb@c080.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62286\n\n<p>Dear Students\,</p>\n<p>Just a small clarification for Q1 of Homework 01:</p>\n<p>You are asked to find the eigenvector centrality of the given graph using the power method (either by hand or by code)...
-SUMMARY:📢 [Homework 01] Question 1 (CS 363-L1)
-UID:d6964bc8-8fa2-4d59-9472-d21881b90c86@d696.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:Originally Posted: 2026-02-03\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62225\n\n<p>Dear students:<br><br>For this week\, you should be working on Assignment 2 &amp\; Homework 4 (please see details where these are posted in Module 2).&nbsp\;</p>\n<p>Since we have no recitation this Th...
-SUMMARY:📢 HWs this Week (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:21d2d415-0763-4609-be3b-42bc12087d74@21d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63040
-DTSTART:20260211T040000Z
-SUMMARY:📝 Watch: The Princess Bride (CND 107-S1\,S2\,S3\,S4)
-UID:a1f26795-4a87-4720-b405-59f8a58a6231@a1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62575\n\n<p><span>Dear Students:&nbsp\; Quiz 2 will be conducted next week (Friday\, Feb 20).&nbsp\; All material covered will be included.</span></p>...
-SUMMARY:📢 Quiz 2 - Section L4 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:2633ad61-7deb-4140-bb45-d5a39ba30e0d@2633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62464
-DTSTART:20260315T185900Z
-SUMMARY:📝 S2 Mid-Semester Journal Grade (CND 107-S1\,S2\,S3\,S4)
-UID:30318e1f-f61f-4ea8-b710-4e206636fb59@3031.org
+UID:6ffce64c-c0e8-4ad4-81f5-a732a94551fa@6ffc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62635\n\n<p>Hello\,<br>I hope you all are doing well. I will be holding this week’s recitations on:</p>\n<ul>\n<li>\n<p><strong>Monday:</strong> 10:00–11:00 AM (H-502)</p>\n</li>\n<li>\n<p><strong>Wednesday:</strong>...
 SUMMARY:📢 Week 6 Recitations & Additional Office Hours (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:7157b029-7b3f-4a59-a03c-5a11c18f01a8@7157.org
+UID:a5448adb-1cab-4939-a801-4170988b25fe@a544.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62309\n\n<p>Dear Students\,</p>\n<p>Quiz 2 is scheduled on Wednesday 11 Feb 2026 that will be available from 2:35 pm and will be of 15 min to complete.</p>\n<p>Topics for the Quiz:</p>\n<p>1- Introduction to Requi...
-SUMMARY:📢 Quiz 2 (CS/CE 353/374-L2)
-UID:d23d1305-8c0c-4836-a19d-e533b6f3b05b@d23d.org
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63070\n\n<p><span>Folks\, please accept my apologies. I will be traveling back to Karachi tomorrow morning. I will definitely schedule one session tomorrow at 10:00 PM\, and I will also make myself available on ...
+SUMMARY:📢 Sessions Tommorow  (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:1afca5a4-c6a6-47c0-b364-5859abaafb15@1afc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62640\n\n<p>Hello everyone!</p>\n<p>Just a reminder that knowledge about vectors in 2D and 3D is assumed as we start the next module in LA. This has been covered in Calculus 2\, the prerequisite to the course.&n...
-SUMMARY:📢 Reminder: Vectors Revision (MATH 205-L1\,L2\,L3\,L4\,L5)
-UID:c365fb8c-a115-468d-9721-18f6a10b3862@c365.org
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62704\n\n<p><strong><span>AI and Explanation</span></strong></p>\n<p><span>&nbsp\;</span></p>\n<p><span>Dear students\, </span></p>\n<p><span>As promised today in class\, here is some more information about our disc...
+SUMMARY:📢 Our Second "Where the Rubber Meets the Road" Discussion: AI & Explanation  (PHIL 212-S1)
+UID:3c2c98d2-5699-4895-a7b4-e76756011c9f@3c2c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/62992
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63986
+DTSTART:20260225T185959Z
+SUMMARY:📝 Read: American Fever by Dur-e-Aziz (CND 107-S1\,S2\,S3\,S4)
+UID:646584bd-ad7e-47dd-bd42-6ce1981a5677@6465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62463
+DTSTART:20260430T185900Z
+SUMMARY:📝 S2 End-semester CP Grade (CND 107-S1\,S2\,S3\,S4)
+UID:d0e39662-03b6-42ea-9ede-f4fa2ff08249@d0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62590\n\n<p>Dear Students:</p>\n<p>Due to some unavoidable circumstances\, I will not be able to conduct today's class (Friday\, Feb 13).&nbsp\; Missed session will be accordingly rescheduled in coordination with ...
+SUMMARY:📢 Class Cancellation Notice - Today (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:1d342e53-7b9c-4e1a-b473-a129a5fa21c0@1d34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Originally Posted: 2026-02-27\nhttps://hulms.instructure.com/courses/4829/discussion_topics/63180\n\n<p>Dear all!&nbsp\;</p>\n<p>That's only a reminder that your second reflection is until tomorrow night at 11:59pm.&nbsp\;</p>\n<p>Have a nice day!&nbsp\;</p>\n<p>All the best\,</p>\n<p>Dr. Susanne Beiweis&nbs...
+SUMMARY:📢 Reminder 1: Second Reflection due Tomorrow\, 11:59 pm  (PHIL 212-S1)
+UID:e3d4685b-1e95-4555-bb65-0dedcc9d1fcf@e3d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Originally Posted: 2026-02-16\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62695\n\n<div class="userMessage">\n<p>Dear Students\,</p>\n<p>The grades for Homework 01 have been released. You may discuss your homework with me tomorrow from 2 pm to 3 pm (if possible)\, or after our class if ...
+SUMMARY:📢 [Homework 01] Grades Released (CS 363-L1)
+UID:06de634e-535b-4dba-ae6e-5e53db6854e8@06de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63144
 DTSTART:20260129T185959Z
-SUMMARY:📝 Thagard (1978) (PHIL 212-S1)
-UID:932ed446-d4e6-4769-beba-59aae6fcf173@932e.org
+SUMMARY:📝 Quiz_01 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:1318590e-f08d-44ac-8dec-9a9e663039a7@1318.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63212
 DTSTART:20260203T104500Z
 SUMMARY:📝 1: Where the Rubber ...  (PHIL 212-S1)
-UID:6788888c-9f3d-4a3c-a8a3-f6dcf0f92070@6788.org
+UID:8f372e01-aad4-4d70-b09a-903fca32a6b9@8f37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62992\n\n<p>Dear Students\,</p>\n<p>The midterm exam will be held on <strong>Tuesday 10th March\, during the class timing and within the class.</strong></p>\n<p>The topics for the midterm include everything that w...
+SUMMARY:📢  [Midterm Exam] 10th March (CS 363-L1)
+UID:9d187060-1945-4e48-a258-518976cda3c9@9d18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62381\n\n<p>Dear Students\,</p>\n<p>The grades for Quiz 01 have been released. You may discuss your quiz with me tomorrow during my office hours (12 pm to 2 pm) if you wish.</p>\n<p>Best\,</p>\n<p>Asad</p>...
+SUMMARY:📢 [Quiz 01] Grades Released (CS 363-L1)
+UID:ea28c82e-df0c-425d-91fd-5029d3c8ffec@ea28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62312\n\n<p>Dear Students\,</p>\n<p>Project Work Guidelines document is Up on LMS for your reference.</p>\n<p>Regards</p>...
+SUMMARY:📢 Project Work Guidelines Document (CS/CE 353/374-L2)
+UID:070a89b8-2bc8-4a25-b7a1-a613fc6f3cff@070a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63381
+DTSTART:20260208T185900Z
+SUMMARY:📝 Project Proposal (CS/CE 353/374-L2)
+UID:14502de5-7e86-44b2-9813-f2df30344fe4@1450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63217
+DTSTART:20260210T185900Z
+SUMMARY:📝 First Reflection  (PHIL 212-S1)
+UID:9a59f3cf-b781-483d-ab60-98d6d0e0441a@9a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63085
+DTSTART:20260130T063000Z
+SUMMARY:📝 Session 6 (Jan 30) Writing Workshop (CND 107-S1\,S2\,S3\,S4)
+UID:d8fddf96-ad07-4944-8236-ebd6e683a1b1@d8fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Originally Posted: 2026-02-20\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62909\n\n<p><span data-olk-copy-source="MessageBody">Dear Students (Section L4):</span></p>\n<p><span data-olk-copy-source="MessageBody">Makeup session has been scheduled on February 25\, 2026 from 2:10pm to 3:2...
+SUMMARY:📢 Section L4:  Make-up Session (Feb 25\, Wednesday) (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:95687038-7814-42bc-9d8e-c6c3327de1f2@9568.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Originally Posted: 2026-02-04\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62286\n\n<p>Dear Students\,</p>\n<p>Just a small clarification for Q1 of Homework 01:</p>\n<p>You are asked to find the eigenvector centrality of the given graph using the power method (either by hand or by code)...
+SUMMARY:📢 [Homework 01] Question 1 (CS 363-L1)
+UID:14e20ce5-a202-483c-8cb9-2525d642a5ca@14e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63987
+DTSTART:20260227T185959Z
+SUMMARY:📝 Read: Girl by Jamaica Kincaid (CND 107-S1\,S2\,S3\,S4)
+UID:33e51cc4-303b-4ea1-82a4-e6a7ae0acff7@33e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63497
+DTSTART:20260215T185959Z
+SUMMARY:📝 WC04 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:c00c8a72-aa2c-416b-acaa-d63284f923cd@c00c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62466
+DTSTART:20260430T185900Z
+SUMMARY:📝 S2 End-Semester Journal Grade (CND 107-S1\,S2\,S3\,S4)
+UID:b0d76748-df4a-49e1-80ef-1062f22534c0@b0d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Originally Posted: 2026-02-14\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62627\n\n<div><span>Dear all!</span></div>\n<div><span>Please keep in mind that the "Dear" reading assignment is due<strong> Feb 17th\, 02:30 pm</strong>.</span></div>\n<div><span>Part of the assignment is to pos...
+SUMMARY:📢 Annotated Reading Assignment "Dear" due Feb 17th\, 02:30 pm  (PHIL 212-S1)
+UID:816c203d-7678-4bab-a71e-2a5aebe7d93a@816c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62462
+DTSTART:20260315T185900Z
+SUMMARY:📝 S2 Mid-semester CP Grade (CND 107-S1\,S2\,S3\,S4)
+UID:ac7deebe-3507-4ddb-9f49-7a960d402bad@ac7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Originally Posted: 2026-02-09\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62221\n\n<div><span>Dear all! </span></div>\n<div><span>Our class tomorrow will take place in H-505. We will be back in our normal classroom\, W242\, on Thursday\, Feb 12th. </span></div>\n<div><span>See you all to...
+SUMMARY:📢 Tomorrow's Class (Feb 10th) takes place in H-505  (PHIL 212-S1)
+UID:c4987276-50e6-4797-bcef-37c601c0bbd7@c498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63040
+DTSTART:20260211T040000Z
+SUMMARY:📝 Watch: The Princess Bride (CND 107-S1\,S2\,S3\,S4)
+UID:f62bc499-ffcf-4bc0-a24c-33f05e7b4597@f62b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/62992
+DTSTART:20260129T185959Z
+SUMMARY:📝 Thagard (1978) (PHIL 212-S1)
+UID:64248e4c-5150-4de0-8432-f68cdb463b25@6424.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62550\n\n<p>Dear students:</p>\n<p><br>As discussed in the first session and as per the weekly outline in the syllabus\, the midterm exam for the course is scheduled during the upcoming exam weeks (Weeks 7 and 8...
+SUMMARY:📢 IMP: Details for Midterm Exam (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:68523477-fad5-4b90-8651-259cc7f12d0d@6852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/62791
+DTSTART:20260206T183000Z
+SUMMARY:📝 Tabloid Dreams -- Module 1 Writing Assignment (CND 107-S1\,S2\,S3\,S4)
+UID:459a373c-6246-48d0-9009-f25e9f67dfd3@459a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/61338
+DTSTART:20260427T185900Z
+SUMMARY:📝 Professionalism Assessment (CND 107-S1\,S2\,S3\,S4)
+UID:508bda41-765d-4aa9-bc61-c2911fcca2ad@508b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/64165
+DTSTART:20260219T092500Z
+SUMMARY:📝 Q2: Quiz 2 (CS 363-L1)
+UID:6a94ccfb-5efe-40e4-9917-054f4eab9e1d@6a94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Originally Posted: 2026-02-17\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62731\n\n<p>Dear Students:</p>\n<p>Please make sure to review all the materials shared on Canvas\, including practice problems\, reading notes etc. Working through these resources will help reinforce the concepts...
+SUMMARY:📢 Preparation material on Canvas (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:1c3d3754-b810-4dab-9f8e-99372cae4c42@1c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:Originally Posted: 2026-02-08\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62384\n\n<p><span style="font-size: 12pt\;">Hello Students\,&nbsp\;</span><br><span style="font-size: 12pt\;">I will be conducting the recitations this week on Monday and Wednesday from 1:30 pm to 2:30 pm. You are...
+SUMMARY:📢 Week 5 Recitations (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:2da62e77-2531-4951-9f9b-f1a802599e5e@2da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63480
+DTSTART:20260309T185959Z
+SUMMARY:📝 CfP (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:a4ecd664-ecf0-4ef2-81d5-ba44ea43ed30@a4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/4829/discussion_topics/63060\n\n<p>Dear all!</p>\n<p>I extended the submission deadline of the second reflection to<strong> Saturday\, 11:59 pm</strong>\, since most of you have midterms this week.&nbsp\;</p>\n<p>All the best\,&nbsp\;</p>\n...
+SUMMARY:📢 Second Reflection - Deadline Extended to Saturday 28th\, 23:59 pm (PHIL 212-S1)
+UID:e1fdfdba-a8dd-4a4e-a24b-4bb1a44a400e@e1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63859
+DTSTART:20260218T230000Z
+SUMMARY:📝 2.1: Where the Rubber... (PHIL 212-S1)
+UID:64e86701-41f8-4498-92dc-ac034af1ec25@64e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63114\n\n<p><a href="https://teams.microsoft.com/meet/45360817600149?p=cSOtiazzaaWMBwhfiL" target="_blank">https://teams.microsoft.com/meet/45360817600149?p=cSOtiazzaaWMBwhfiL</a></p>\n<p>hoping to see you all ...
+SUMMARY:📢 online session (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:79b05ce9-7f36-4cb7-9cb2-d9df27eecff7@79b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62123\n\n<p>Dear Students\,</p>\n<p>I hope you all are doing well.</p>\n<p>This is a final reminder to sign up for project teams on Canvas. Deadline is today\, 11:59 p.m. Anyone who isn't able to form their team b...
+SUMMARY:📢 Reminder for Project Team signup (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:9f7519a8-50aa-4edc-a655-e6deac7e692b@9f75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/62990
+DTSTART:20260427T223000Z
+SUMMARY:📝 Assigned Q & A (Class)  (PHIL 212-S1)
+UID:f33f2f4e-9f21-41ce-8088-4e6eef990823@f33f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Originally Posted: 2026-02-03\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62225\n\n<p>Dear students:<br><br>For this week\, you should be working on Assignment 2 &amp\; Homework 4 (please see details where these are posted in Module 2).&nbsp\;</p>\n<p>Since we have no recitation this Th...
+SUMMARY:📢 HWs this Week (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:b01a2e51-47d5-4f3b-bfd8-e1b70a3345e2@b01a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Originally Posted: 2026-01-29\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62083\n\n<p>Hi all!&nbsp\;</p>\n<p>I extended the submission deadline of the Thagard assignment to <strong>tonight\, 11:59 pm</strong>.&nbsp\;</p>\n<p>All the best\,&nbsp\;</p>\n<p>Dr. Susanne Beiweis</p>...
+SUMMARY:📢 Thagard Assignment - Submission Deadline Extended  (PHIL 212-S1)
+UID:a121b721-8d2a-418c-be50-88697678287b@a121.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Originally Posted: 2026-02-09\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62416\n\n<p>Hello all\,<br>Todays recitation will now be conducted in powers lab\, as the previous location is already occupied. Sorry for the inconvenience.&nbsp\;</p>\n<p>Best\,</p>\n<p>Yashfeen</p>...
+SUMMARY:📢 Recitation location changed (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:c8db6837-3f7e-496a-a390-4a9688b5e72a@c8db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40267
+DTSTART:20261212T185959Z
+SUMMARY:📝 Proposal (Khidmat)
+UID:f9b903c7-44a0-4e80-a69d-30854bc37fdb@f9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Originally Posted: 2026-02-27\nhttps://hulms.instructure.com/courses/4977/discussion_topics/63210\n\n<p>Dear Students\,</p>\n<p>The grades for Quiz 02 have been released. You may discuss your quiz with me either on Monday or on Tuesday.</p>\n<p>Please send me a message on Teams so that we can set a time...
+SUMMARY:📢 [Quiz 02] Grades Released (CS 363-L1)
+UID:89de3fad-f860-49b3-b17c-e310cfaad224@89de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/64094
+DTSTART:20260307T185500Z
+SUMMARY:📝 HW 02 (CS 363-L1)
+UID:42bf7c8b-4dcd-48e6-94f3-5eedb804ea85@42bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DESCRIPTION:Originally Posted: 2026-02-01\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62167\n\n<p><span style="font-family: 'Lato Extended'\, 'Helvetica Neue'\, Helvetica\, Arial\, sans-serif\;">Hey students\,</span></p>\n<p style="text-align: left\;"><span style="font-family: 'Lato Extended'\, 'Helveti...
+SUMMARY:📢 Recitations for Week 4 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:98660d5e-bef0-4515-bd75-6da161d3aa94@9866.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Originally Posted: 2026-01-30\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62122\n\n<p>Dear Students\,</p>\n<p>As mentioned in our class yesterday\, Quiz 01 will be held on <strong>Tuesday 3rd February.</strong></p>\n<p><strong>The quiz will be&nbsp\;on paper&nbsp\;and no additional materi...
+SUMMARY:📢 [Quiz 01] 3rd February (CS 363-L1)
+UID:4ef7557a-1c69-4ccb-902b-fcbe1b1e611e@4ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63466
+DTSTART:20260225T185900Z
+SUMMARY:📝 HW1 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:76cbaa4b-900e-466a-98f6-488e59ec87f7@76cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62950\n\n<p>Dear Students Section L4:</p>\n<p>Mid-term of the course will be held during the class-session on Friday\, March 6.&nbsp\; All material covered will be included.</p>...
+SUMMARY:📢 Section L4:  Mid-term Exam (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:9ca65653-1738-4871-9368-044d94b4893d@9ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63982
+DTSTART:20260306T185959Z
+SUMMARY:📝 Braided Essay -- Module 2 Writing Assignment (CND 107-S1\,S2\,S3\,S4)
+UID:96ec5823-580c-433f-a7c8-b723246a9cc6@96ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/64120
+DTSTART:20260302T185959Z
+SUMMARY:📝 WC06 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:90f72482-e9c7-429a-8e3a-0282e8f2cf15@90f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-23\nhttps://hulms.instructure.com/courses/4829/discussion_topics/63017\n\n<h2 class="css-1366bzx-view-heading" dir="ltr" data-testid="message_title"><span><span aria-hidden="true">Reminder: Please comment on your peers' posters (due tomorrow\, 12:40 pm) </span></span></h2>\n<...
+SUMMARY:📢 Reminder 2: Please comment on your peers' posters (due tomorrow\, 12:40 pm) (PHIL 212-S1)
+UID:e4c73baf-64a8-457e-a6f6-7b4acdcb73ba@e4c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63727
+DTSTART:20260222T185900Z
+SUMMARY:📝 Software Requirement Specification (CS/CE 353/374-L2)
+UID:323fd4cf-42d2-459c-a3f2-320495782953@323f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63417
+DTSTART:20260217T093000Z
+SUMMARY:📝 Dear  (PHIL 212-S1)
+UID:a8e69e34-03d2-4da0-ad6f-00926ec38e3e@a8e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63041
+DTSTART:20260213T040000Z
+SUMMARY:📝 Read: Hanif and Khatri (CND 107-S1\,S2\,S3\,S4)
+UID:07807012-49bf-42bc-9739-e485717ebdfc@0780.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Originally Posted: 2026-02-22\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62955\n\n<div><span>Dear all! </span></div>\n<div><span>Thank you for letting me know that you had issues seeing the posters (I was not aware of it). This is a great example of why I am a philosopher\, not a com...
+SUMMARY:📢 Reminder: Please comment on your peers' posters (due Tue\, 12:40 pm)  (PHIL 212-S1)
+UID:5e22c90b-2b72-4555-ba7d-d3b8baf07cab@5e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61060
+DTSTART:20260219T185959Z
+SUMMARY:📝 Qz6 (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:97d51502-937b-489c-92f5-ada744448110@97d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62932\n\n<p>Dear Students\,</p>\n<p>In order to provide more focus and prep time for Mid Term Exams\, we shall not have the regular class on Monday 23 Feb 2026.</p>\n<p>However\, I shall be available on Teams for a...
+SUMMARY:📢 No regular class on Monday 23 Feb 2026 (CS/CE 353/374-L2)
+UID:55b16c1c-e613-43f7-8c73-ec707af1ba5b@55b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/63891
+DTSTART:20260228T185959Z
+SUMMARY:📝 Second Reflection  (PHIL 212-S1)
+UID:5bc82dd4-3c22-4792-a261-c24161f7c3e1@5bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Originally Posted: 2026-02-24\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63044\n\n<div>\n<div class="" data-testid="notHighlighted">\n<div class="css-z2kb49-view--flex-flex" dir="ltr" data-testid="discussion-topic-container">\n<div class="css-r6pfkn-view" dir="ltr">\n<div class="userMe...
+SUMMARY:📢 Clarification: Mid Topics Content (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:51f8d69b-25b5-48f3-848b-4a5ab09e4d1b@51f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62935\n\n<p>Dear Students\,</p>\n<p>Please find below Trello Board Structure:</p>\n<p>1- Assets</p>\n<p>2- Product Backlog</p>\n<p>3- Sprint Backlog</p>\n<p>4- Sprint Dev in Progress</p>\n<p>5- Sprint Dev Completed</...
+SUMMARY:📢 Trello Board Structure (CS/CE 353/374-L2)
+UID:cdfdf6c4-0cb7-45e5-b592-8cff6c65efc6@cdfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61057
+DTSTART:20260129T185900Z
+SUMMARY:📝 Qz3 (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:9ec9b0c7-45b5-45a3-bdda-1ed4ae8efbbf@9ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5043/assignments/61056
+DTSTART:20260129T185900Z
+SUMMARY:📝 Qz2 (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:9d9d9bf2-e267-4db9-abb3-d2fa43f2d3da@9d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DESCRIPTION:Originally Posted: 2026-02-15\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62640\n\n<p>Hello everyone!</p>\n<p>Just a reminder that knowledge about vectors in 2D and 3D is assumed as we start the next module in LA. This has been covered in Calculus 2\, the prerequisite to the course.&n...
+SUMMARY:📢 Reminder: Vectors Revision (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:6e05738e-5369-461a-8b49-cb3953260902@6e05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5021/assignments/63631
+DTSTART:20260211T100000Z
+SUMMARY:📝 Quiz 2 (CS/CE 353/374-L2)
+UID:2760ab90-5548-4513-b2e0-278fb6c80cdd@2760.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/63411
+DTSTART:20260203T112500Z
+SUMMARY:📝 Q1: Quiz 1 (CS 363-L1)
+UID:da88b810-8005-4b8a-8112-50e7cc87d8e4@da88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4977/assignments/62879
+DTSTART:20260207T185500Z
+SUMMARY:📝 HW 01 (CS 363-L1)
+UID:94ba6d2e-5e1f-49fb-9868-a00a4bed248a@94ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Originally Posted: 2026-02-01\nhttps://hulms.instructure.com/courses/4829/discussion_topics/62164\n\n<p><span>I’m writing to give you an earlier-than-usual and longer-than-usual update for the week\, with some instructions for Tuesday. </span></p>\n<p>&nbsp\;</p>\n<p>On <strong>Tuesday (Feb 3rd)</strong>...
+SUMMARY:📢 Where the Rubber meets the Road\, Part 1! (Tuesday\, Feb 3rd) (PHIL 212-S1)
+UID:6bbc26c7-a516-438a-a46f-d8178802f4e7@6bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63991
+DTSTART:20260306T185959Z
+SUMMARY:📝 Watch: Arrested Development S1E1 (CND 107-S1\,S2\,S3\,S4)
+UID:ac2da855-0dee-4991-b465-463b4f6a34ef@ac2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63243
+DTSTART:20260208T185959Z
+SUMMARY:📝 WC03 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:8ac73db1-8c05-4230-b6a8-5636b83a1add@8ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63039
+DTSTART:20260204T040000Z
+SUMMARY:📝 Optional: Watch K-Pop Demon Hunters (CND 107-S1\,S2\,S3\,S4)
+UID:4799a6f3-6f08-4b76-9e8d-9cdb58bfe324@4799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40815
+DTSTART:20261231T185959Z
+SUMMARY:📝 Video (Khidmat)
+UID:8057e0e2-d05f-421b-8960-8e2139c7b87c@8057.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62941\n\n<p>Dear Students\,</p>\n<p>Homework 02 has been released. You can find it in the assignments module on the course site.</p>\n<p>Please make sure that you follow the instructions mentioned on the submissi...
+SUMMARY:📢 [Homework 02] 21st February (CS 363-L1)
+UID:fc7216fc-e25b-4444-8e47-31d01d6d0bed@fc72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63042
+DTSTART:20260218T040000Z
+SUMMARY:📝 Read: Riachuelo (CND 107-S1\,S2\,S3\,S4)
+UID:4b2f4d8e-11f3-456a-af0e-5ffffe7fa9b0@4b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40814
+DTSTART:20261231T185959Z
+SUMMARY:📝 Report (Khidmat)
+UID:62b8eb60-ef88-4be0-96d6-f6e517e8be05@62b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/64102
 DTSTART:20260220T185959Z
 SUMMARY:📝 Quiz 02 (CS/CE 412/471-L1\,L2\,L3\,L4)
-UID:b0d9ae95-31ae-4e02-b2fb-3a2a47d95c6a@b0d9.org
+UID:5f69f49d-762b-4ad7-8836-5ef7731f5a89@5f69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-05\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62309\n\n<p>Dear Students\,</p>\n<p>Quiz 2 is scheduled on Wednesday 11 Feb 2026 that will be available from 2:35 pm and will be of 15 min to complete.</p>\n<p>Topics for the Quiz:</p>\n<p>1- Introduction to Requi...
+SUMMARY:📢 Quiz 2 (CS/CE 353/374-L2)
+UID:cf24d735-f041-40db-812f-1082c89b9ef2@cf24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/4977/discussion_topics/62608\n\n<p>Dear Students\,</p>\n<p>As discussed in class yesterday\, Quiz 02 will be held on <strong>Thursday 19th February.</strong></p>\n<p>The topics of the quiz include: <strong>the E-R Random Graph/Network M...
+SUMMARY:📢 [Quiz 02] 19th February (CS 363-L1)
+UID:cd478336-910b-482b-b0f3-d4a621b511c2@cd47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5055/assignments/63988
+DTSTART:20260304T185959Z
+SUMMARY:📝 Read: A Temporary Matter by Jhumpa Lahiri (CND 107-S1\,S2\,S3\,S4)
+UID:e7034f5d-e200-4b8c-9468-f5e13583ac0d@e703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/63815
+DTSTART:20260222T185959Z
+SUMMARY:📝 WC05 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:44ae4f91-2987-4690-8f31-f43aebbc018c@44ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-21\nhttps://hulms.instructure.com/courses/5021/discussion_topics/62930\n\n<p>Dear Students\,</p>\n<p>As discussed in class\, we shall have our Mid Exam in class on Wed\, 25 Feb 2026 starting at 1 pm sharp with the following details:</p>\n<p>1- It will be paper based.</p>\n<p>2- S...
+SUMMARY:📢 Mid Term Exam on Wednesday\, 25 Feb 2026 at 1 pm Sharp (CS/CE 353/374-L2)
+UID:01e71d30-3777-43bf-ac27-1e541e8242d2@01e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5046/assignments/62878
+DTSTART:20260201T185959Z
+SUMMARY:📝 WC02 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:fdb9c2a1-1a49-4712-ba48-6d9fff991779@fdb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Originally Posted: 2026-02-27\nhttps://hulms.instructure.com/courses/4977/discussion_topics/63211\n\n<p>Dear Students\,</p>\n<p>I have decided to reschedule the midterm to the <strong>10th of March (Tuesday)</strong>.</p>\n<p>Please note the rest of the details remain the same (including topics and othe...
+SUMMARY:📢 [Midterm Exam] Rescheduled (CS 363-L1)
+UID:fea1cc84-410d-4ad1-867c-6c8c2f491818@fea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/4829/assignments/64109
+DTSTART:20260224T074000Z
+SUMMARY:📝 2.2. New Where the Rubber  (PHIL 212-S1)
+UID:a488d809-0d10-4241-abc2-892aa0f69df5@a488.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Originally Posted: 2026-02-12\nhttps://hulms.instructure.com/courses/5043/discussion_topics/62536\n\n<p>Dear students:</p>\n<p>Given that we have regular quizzes on the course\, the midterm approaching\, and with some cases of malpractice popping up\, we would like to update and reiterate to everyone the...
+SUMMARY:📢 URGENT: Procedure for Dealing with Cheating Cases (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:bab86858-5e18-42ed-92be-e957282e2cb5@bab8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Originally Posted: 2026-02-25\nhttps://hulms.instructure.com/courses/5043/discussion_topics/63113\n\n<p>Dear Students:<br><br>For the Midterm Part A this Thursday\, 26 Feb\, please note the following important instructions:</p>\n<ul>\n<li>You must report to Tariq Rafi latest by<span>&nbsp\;</span><span><s...
+SUMMARY:📢 IMP: Instructions for Midterm Tomorrow (MATH 205-L1\,L2\,L3\,L4\,L5)
+UID:8177cf6d-ee00-4d61-ae5f-2746786530d2@8177.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Originally Posted: 2026-02-13\nhttps://hulms.instructure.com/courses/5046/discussion_topics/62575\n\n<p><span>Dear Students:&nbsp\; Quiz 2 will be conducted next week (Friday\, Feb 20).&nbsp\; All material covered will be included.</span></p>...
+SUMMARY:📢 Quiz 2 - Section L4 (CS/CE 412/471-L1\,L2\,L3\,L4)
+UID:f6a8c002-0cf1-42b3-9199-810d13160058@f6a8.org
 END:VEVENT
 END:VCALENDAR
