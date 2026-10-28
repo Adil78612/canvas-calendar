@@ -2,327 +2,327 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71521
-DTSTART:20261010T060000Z
-SUMMARY:📝 Activity 2-Strategic & Finance Conflict (MGMT 320-L1)
-UID:9f9ee64c-af9f-4d15-9d22-8e901d05fa25@9f9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Originally Posted: 2026-10-02\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70124\n\n<p>Dear all\,</p>\n<p>The grades for your Homework 01 have been released. You may discuss them with me during my office hours next week\, <span>or at any other time (confirmed by me on Teams or email).</...
-SUMMARY:📢 [Homework 01] Grades Released (CS/CE 224/272-L5)
-UID:f5563f05-63a3-4d09-9673-250814a0e115@f556.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Originally Posted: 2026-10-11\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70519\n\n<p>Dear all\,</p>\n<p>Please find attached a practice question that would be helpful in preparing for Lab Quiz 02: <a class="instructure_file_link instructure_scribd_file inline_disabled" title="Practic...
-SUMMARY:📢 [Practice Question] (CS/CE 224L/272L-T5)
-UID:aaef0844-b4d4-4875-b1ee-670eeb1a47a8@aaef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71231
-DTSTART:20261002T134500Z
-SUMMARY:📝 Quiz 1 (MGMT 320-L1)
-UID:09250cf5-5a9d-4431-b13c-d1aa543d8bd8@0925.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261014
-DESCRIPTION:Originally Posted: 2026-10-14\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70677\n\n<p>Dear Students\,</p>\n<p>I've uploaded a sample midterm in the <a title="Course Materials" href="https://hulms.instructure.com/courses/5594/modules/33983" data-course-type="modules" data-published="tr...
-SUMMARY:📢 [Sample Midterm] (CS/CE 224/272-L5)
-UID:8274a59f-8aac-4232-be01-f5c08980a2f1@8274.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261007
-DESCRIPTION:Originally Posted: 2026-10-02\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70089\n\n<p><span>Dear Kaavish Students\,</span></p>\n<p><span>Thank you for submitting your proposals.</span></p>\n<p><span>The </span><strong><span>Project Proposal Defense for the remaining teams</span></stron...
-SUMMARY:📢 Proposal Presentation (Oct 7th) (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:1015d11d-2041-4e57-a20f-12480c826cf4@1015.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70897\n\n<p>Dear Students\,</p>\n<p>The grades for your Lab Quiz 02 have been released. You can discuss them with me this week during my office hours (or at any other time confirmed by me on Teams or email) if y...
-SUMMARY:📢 [Lab Quiz 02] Grades Released (CS/CE 224L/272L-T5)
-UID:c8e5ccda-0ece-4e91-ac23-5615b64871be@c8e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71073
-DTSTART:20260929T073000Z
-SUMMARY:📝 Challenger Lab submission (CS/CE 224L/272L-T5)
-UID:57b3d57c-c2fd-4650-a372-985e2e7ebffa@57b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5364/assignments/70967
-DTSTART:20261001T185959Z
-SUMMARY:📝 Retrospective Documentation {Concept: Tacit vs. Explicit Knowledge}  (CND 102-D3)
-UID:495ac2f4-ba51-40c0-95f7-30ecaf0fab9e@495a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40814
-DTSTART:20261231T185959Z
-SUMMARY:📝 Report (Khidmat)
-UID:167f44e4-aafb-4db4-994b-a49a50e814ff@167f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DESCRIPTION:Originally Posted: 2026-10-12\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70554\n\n<p>Some of you wanted the notes structured as Slides. I've uploaded a few. Give them a look.&nbsp\;</p>\n<p>Note: Your main reference should still be markdown files\, class discussions and the references...
-SUMMARY:📢 Slides Uploaded (CS 318-L1)
-UID:c2edd093-b47f-4d7a-b472-567abadb1248@c2ed.org
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:Originally Posted: 2026-10-26\nhttps://hulms.instructure.com/courses/5364/discussion_topics/71160\n\n<p><em>Tomorrow\, we will make a couple of collages in response to the theories we will cover.</em></p>\n<p><strong>Content:</strong> I will bring old Newsweek magazines for you to cut up. Feel free to ...
+SUMMARY:📢 Collage Materials (For Tomorrow's Class) (CND 102-D3)
+UID:ac60fff3-e2d0-494a-bd0f-20dbf3d8829d@ac60.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69681
 DTSTART:20261202T185959Z
 SUMMARY:📝 Technical Talk 2 (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:2163dbf7-db00-427e-af66-7a9a11b16cd6@2163.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70914\n\n<p data-pm-slice="1 1 []"><span>Dear students\,</span></p>\n<p><span>Today\, all sections will attend a combined session in Tariq Rafi Hall\, where alumni will share their experiences and valuable insight...
-SUMMARY:📢 Kaavish Session Today (Oct 21) - Tariq Rafi Hall (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:ddfa8723-93c1-4c29-8dec-bcd7e8fcee1d@ddfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71780
-DTSTART:20261016T121000Z
-SUMMARY:📝 MT: Midterm (CS/CE 224/272-L5)
-UID:ae996bba-e122-400c-8c0b-444466a6c600@ae99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Originally Posted: 2026-10-10\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70483\n\n<p>Dear Students\,</p>\n<p>As mentioned in class\, your Midterm will be held on&nbsp\;<strong>Friday\, 16th October&nbsp\;</strong>during class timings.</p>\n<p><strong>The topics covered in the Midterm incl...
-SUMMARY:📢 [Midterm] 16th October (CS/CE 224/272-L5)
-UID:f726c8ee-4bf7-4029-923c-33ffdb8f3c0f@f726.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DESCRIPTION:Originally Posted: 2026-09-30\nhttps://hulms.instructure.com/courses/5594/discussion_topics/69972\n\n<p>Hello\,</p>\n<p>HW2 has been released on LMS\, with a due date of October 15th.</p>...
-SUMMARY:📢 HW2 released (CS/CE 224/272-L5)
-UID:964f6d83-16f8-41f4-ac07-91a644c02114@964f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70928\n\n<p>Hello!</p>\n<p>Tomorrow\, we will continue to ideate together towards self-portraits.</p>\n<p>Bring any materials/media you might like to use.</p>\n<p>If you've found any inspirations or references so ...
-SUMMARY:📢 For Tomorrow (Ideation Materials) (CND 102-D3)
-UID:de5906b4-dbfd-4658-9ae1-ad383f380628@de59.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261013
-DESCRIPTION:Originally Posted: 2026-10-13\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70600\n\n<p><em>Today's class begins in complete silence (no looking at phones either).</em></p>\n<p>&nbsp\;</p>\n<ol style="list-style-type: decimal\;">\n<li><strong><span style="color: #9242b4\;">Draw a self-portr...
-SUMMARY:📢 Today's First Activity (Intentional/Instinctual Drawing) (CND 102-D3)
-UID:f9e5e253-06f6-4278-b74f-28343b7449d2@f9e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71769
-DTSTART:20261013T174500Z
-SUMMARY:📝 LQ2: Lab Quiz 02 (CS/CE 224L/272L-T5)
-UID:e16eaff8-604d-4c14-ae6a-e366d28a4581@e16e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Originally Posted: 2026-10-09\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70474\n\n<p>Dear Students\,</p>\n<p>The solution for Lab Quiz 01 can now be found in the <a title="Lab Quiz Solutions" href="https://hulms.instructure.com/courses/5585/modules/35282" data-course-type="modules" d...
-SUMMARY:📢 [Lab Quiz] Solution Released (CS/CE 224L/272L-T5)
-UID:1790a6c6-5ba5-4060-94f1-b03ee8466e12@1790.org
+UID:335188b0-3bea-4b72-bb14-5c141e19d7df@3351.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:Originally Posted: 2026-10-10\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70488\n\n<p>Assessment Dates:</p>\n<p>1. API Quiz Monday - All MCQs</p>\n<p>2. Mid on 14th Wednesday</p>\n<p>3. I have uploaded one more lecture notes. Its a huge one (contains a lot of topics) - you can just foc...
 SUMMARY:📢 Assessment Dates (CS 318-L1)
-UID:e28d24ab-c604-404e-b875-bdca7ded5b0b@e28d.org
+UID:bf52b2b4-6113-46c3-83ca-d9bd85ceb9c7@bf52.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71108
-DTSTART:20261016T185959Z
-SUMMARY:📝 Homework 2 (CS/CE 224/272-L5)
-UID:63996b89-97e2-42c3-aebc-b905366f7252@6399.org
+DTSTART;VALUE=DATE:20261013
+DESCRIPTION:Originally Posted: 2026-10-13\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70600\n\n<p><em>Today's class begins in complete silence (no looking at phones either).</em></p>\n<p>&nbsp\;</p>\n<ol style="list-style-type: decimal\;">\n<li><strong><span style="color: #9242b4\;">Draw a self-portr...
+SUMMARY:📢 Today's First Activity (Intentional/Instinctual Drawing) (CND 102-D3)
+UID:f49c8c2d-3a61-41d9-aa04-fe83de2af9d5@f49c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69676
-DTSTART:20261107T185959Z
-SUMMARY:📝 SRS1: Requirements (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:1c778f64-4217-44b1-b5fa-9e413e180200@1c77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71333
-DTSTART:20261011T185959Z
-SUMMARY:📝 Lab 06 submission (CS/CE 224L/272L-T5)
-UID:7d135270-68bf-41ea-ae88-43cca64d0db9@7d13.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261014
-DESCRIPTION:Originally Posted: 2026-10-14\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70651\n\n<p>Dear Students\,&nbsp\;</p>\n<p>Please note that your sections have been updated. Kindly attend today's Kaavish session as per the new section allocations.&nbsp\;</p>\n<p>Best\,&nbsp\;</p>\n<p>Usman</p>...
-SUMMARY:📢 New Section Allocation (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:1fb0cb78-7141-487c-961f-da0c7fecc4bb@1fb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5281/assignments/71278
-DTSTART:20261021T185959Z
-SUMMARY:📝 Assignment 2 (CS 318-L1)
-UID:9cccf7a4-f7a4-4f05-a1bc-0a39d2694896@9ccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/70562
-DTSTART:20260927T185959Z
-SUMMARY:📝 Assignment 1 (MGMT 320-L1)
-UID:26d17428-dad6-487b-b7dd-6f485bcc26af@26d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/70563
-DTSTART:20260929T185959Z
-SUMMARY:📝 Activity 1- Catch the Pricing Trick (MGMT 320-L1)
-UID:0223a0d6-c1c3-4f84-9420-426d9b5cda69@0223.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Originally Posted: 2026-10-26\nhttps://hulms.instructure.com/courses/5594/discussion_topics/71140\n\n<p>Dear all\,</p>\n<p>The grades for your Midterm have been released. <span>You may discuss them with me during my office hours\, </span><span>or at any other time (confirmed by me on Teams or email).</s...
-SUMMARY:📢 [Midterm] Grades Released (CS/CE 224/272-L5)
-UID:d32ff6eb-1256-47a9-8878-97e64cf352fa@d32f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71726
-DTSTART:20261027T185959Z
-SUMMARY:📝 Prj: Proposal (CS/CE 224/272-L5)
-UID:73f03b1e-1fcc-4e25-8443-e015c9c3bd45@73f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5281/assignments/71550
-DTSTART:20261012T051500Z
-SUMMARY:📝 Quiz 2 APIs (CS 318-L1)
-UID:8ad115e0-24b2-44aa-8129-ba0c8fa7329c@8ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69674
-DTSTART:20260927T185959Z
-SUMMARY:📝 Project Proposal (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:78950573-0a0f-4778-940b-fceb49271b12@7895.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Originally Posted: 2026-10-08\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70356\n\n<p>Dear Students\,</p>\n<p>Your Lab Quiz 02 will be held on&nbsp\;<strong>Tuesday\, 13th October 2026</strong>.</p>\n<p>The topics included in the quiz are:</p>\n<ul>\n<li>Dynamic Memory Allocation</li>\n<li>...
-SUMMARY:📢 [Lab Quiz 02] 13th October (CS/CE 224L/272L-T5)
-UID:b979ddcc-0219-4d5e-80d9-9303b1e0db53@b979.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40815
-DTSTART:20261231T185959Z
-SUMMARY:📝 Video (Khidmat)
-UID:7803e559-2a1c-4a13-a7fc-dfb090c28414@7803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/71262
-DTSTART:20261002T185959Z
-SUMMARY:📝 01 Project Proposal (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:95c51451-22fe-4986-94b7-7e03ea706698@95c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Originally Posted: 2026-10-10\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70504\n\n<p>Dear all\,</p>\n<p>The grades for your Class Quiz 02 have been released. <span>You may discuss them with me during my office hours next week\, </span><span>or at any other time (confirmed by me on Tea...
-SUMMARY:📢 [Quiz 02] Grades Released (CS/CE 224/272-L5)
-UID:1fa18a40-8dbc-497a-8eec-edb85eaea693@1fa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69680
-DTSTART:20261202T185959Z
-SUMMARY:📝 Technical Talk 1 (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:07748fd5-027c-4c78-b548-975bc497a8e0@0774.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70721\n\n<p>Dear all\,</p>\n<p>The <strong><span>Project Proposal Instructions and Documentation</span></strong><span> have been uploaded in the <a title="Project" href="https://hulms.instructure.com/courses/559...
-SUMMARY:📢 [Project] Proposal Document (CS/CE 224/272-L5)
-UID:bc556fd6-3305-4d75-b149-745a6ddc14b2@bc55.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261007
-DESCRIPTION:Originally Posted: 2026-10-07\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70310\n\n<p>Dear all\,</p>\n<p>There’s a correction to the `Student` class in HW2. Precisely\, the current version shows only the member `Course** courses_taken`.</p>\n<p>You’ll need to break this down into two ar...
-SUMMARY:📢 Hw2 correction (CS/CE 224/272-L5)
-UID:c6ba21d9-b3bd-41b3-8af8-68e3a8877045@c6ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71906
-DTSTART:20261029T185959Z
-SUMMARY:📝 Assignment 2 (MGMT 320-L1)
-UID:5e64eec5-3777-49d4-8e98-090a4786aee4@5e64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5364/assignments/71361
-DTSTART:20261012T185959Z
-SUMMARY:📝 Spatial Intervention {Concepts: Richness and Sensemaking} (CND 102-D3)
-UID:b9ed8927-87f9-4116-9645-eabe8ad12599@b9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40267
-DTSTART:20261212T185959Z
-SUMMARY:📝 Proposal (Khidmat)
-UID:04cbb52b-17fe-4209-bf42-b212d9dd87fe@04cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Originally Posted: 2026-09-28\nhttps://hulms.instructure.com/courses/5524/discussion_topics/69857\n\n<p>Dear Kaavish students\,</p>\n<p>Thank you for submitting your proposals.</p>\n<p data-pm-slice="1 1 []"><span>The </span><strong><span>Project Proposal Defense</span></strong><span> will begin this we...
-SUMMARY:📢 Proposal Presentation (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:48911788-b7ff-410e-b5a6-263a30583a80@4891.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261001
-DESCRIPTION:Originally Posted: 2026-10-01\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70035\n\n<p>Hi guys.&nbsp\;</p>\n<p>Not well. Will not be at Uni today.&nbsp\;</p>\n<p>Some of you wanted to give me discuss your quizzes to me.</p>\n<p>Let's do it tomorrow (hopefully I'll be well enough to drop b...
-SUMMARY:📢 Not at University Today (CS 318-L1)
-UID:da04402d-6880-401e-8f66-44c55b48f49c@da04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:Originally Posted: 2026-09-29\nhttps://hulms.instructure.com/courses/5585/discussion_topics/69952\n\n<h1 class="css-eg1zre-view-heading" dir="ltr" data-testid="message_title" data-cid="Heading"><span style="font-size: 1rem\; ">Hello\,</span></h1>\n<h1 class="css-eg1zre-view-heading" dir="ltr" data-testi...
-SUMMARY:📢 OOP Session On Pointers tomorrow (CS/CE 224L/272L-T5)
-UID:2ec6ceb0-4a14-4edc-95ee-491285c55817@2ec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71431
-DTSTART:20261002T113500Z
-SUMMARY:📝 Q2: Quiz 2 (CS/CE 224/272-L5)
-UID:fc260c1e-cc6f-46ac-85b4-edff4f0aed64@fc26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70717\n\n<p>Dear Students\,</p>\n<p>The deadline for&nbsp\;Homework 02 has been extended.</p>\n<p><strong>The homework is now going to be due tomorrow\, Friday (16th October)\, at 11.59 pm.</strong></p>\n<p>Please no...
-SUMMARY:📢 [Homework 02] Deadline (CS/CE 224/272-L5)
-UID:5e29c892-ddcf-4bda-b3f1-7819dd910ce8@5e29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70742\n\n<p><span style="color: #9242b4\;">In writing\, tell yourself <strong>the story of who you are</strong>.</span></p>\n<p style="padding-left: 40px\;"><em>'A story is a connected sequence of real or imagined...
-SUMMARY:📢 Today's Warm-up (Writing Prompt) (CND 102-D3)
-UID:8b6b46bc-838a-4b3a-8449-f65efb5ea569@8b6b.org
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Originally Posted: 2026-10-02\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70124\n\n<p>Dear all\,</p>\n<p>The grades for your Homework 01 have been released. You may discuss them with me during my office hours next week\, <span>or at any other time (confirmed by me on Teams or email).</...
+SUMMARY:📢 [Homework 01] Grades Released (CS/CE 224/272-L5)
+UID:a41c7ea1-3db0-42a9-9092-f95ccfc19a75@a41c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
 DESCRIPTION:Originally Posted: 2026-10-22\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70952\n\n<p>Extra Class - October 23\, 2026\, from 2:30 p.m. to 3:45 p.m. in W-243.</p>...
 SUMMARY:📢 Extra Class - October 23\, 2026\, from 2:30 p.m. to 3:45 p.m. in W-243. (CS 318-L1)
-UID:ae28fa22-d093-42cf-acff-9aa68154f4cc@ae28.org
+UID:12c596ba-4a9b-44d7-b8a2-d9ea4fcdc124@12c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5281/assignments/71550
+DTSTART:20261012T051500Z
+SUMMARY:📝 Quiz 2 APIs (CS 318-L1)
+UID:2b8b60fe-51bb-43bd-a6c8-59fdef0082c4@2b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5364/assignments/71361
+DTSTART:20261012T185959Z
+SUMMARY:📝 Spatial Intervention {Concepts: Richness and Sensemaking} (CND 102-D3)
+UID:76ca2e7f-e7e2-43fd-9019-9b1107d6b3f3@76ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69680
+DTSTART:20261202T185959Z
+SUMMARY:📝 Technical Talk 1 (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:d10b46cd-2086-45bc-8759-9d0f04acfdd3@d10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71780
+DTSTART:20261016T121000Z
+SUMMARY:📝 MT: Midterm (CS/CE 224/272-L5)
+UID:81186c13-736f-4339-93c3-86121628928d@8118.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:Originally Posted: 2026-10-02\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70089\n\n<p><span>Dear Kaavish Students\,</span></p>\n<p><span>Thank you for submitting your proposals.</span></p>\n<p><span>The </span><strong><span>Project Proposal Defense for the remaining teams</span></stron...
+SUMMARY:📢 Proposal Presentation (Oct 7th) (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:b4b9182d-eca6-4805-82b0-0f504c466e8f@b4b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70928\n\n<p>Hello!</p>\n<p>Tomorrow\, we will continue to ideate together towards self-portraits.</p>\n<p>Bring any materials/media you might like to use.</p>\n<p>If you've found any inspirations or references so ...
+SUMMARY:📢 For Tomorrow (Ideation Materials) (CND 102-D3)
+UID:4242c847-6f8e-4d2b-ac50-9d4447ca8d6b@4242.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Originally Posted: 2026-10-10\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70483\n\n<p>Dear Students\,</p>\n<p>As mentioned in class\, your Midterm will be held on&nbsp\;<strong>Friday\, 16th October&nbsp\;</strong>during class timings.</p>\n<p><strong>The topics covered in the Midterm incl...
+SUMMARY:📢 [Midterm] 16th October (CS/CE 224/272-L5)
+UID:15444a39-b73b-4aec-a62f-83b60b50ec8a@1544.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
-DESCRIPTION:Originally Posted: 2026-10-26\nhttps://hulms.instructure.com/courses/5364/discussion_topics/71160\n\n<p><em>Tomorrow\, we will make a couple of collages in response to the theories we will cover.</em></p>\n<p><strong>Content:</strong> I will bring old Newsweek magazines for you to cut up. Feel free to ...
-SUMMARY:📢 Collage Materials (For Tomorrow's Class) (CND 102-D3)
-UID:46502b6e-9989-4b32-be59-09f455a5894f@4650.org
+DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70721\n\n<p>Dear all\,</p>\n<p>The <strong><span>Project Proposal Instructions and Documentation</span></strong><span> have been uploaded in the <a title="Project" href="https://hulms.instructure.com/courses/559...
+SUMMARY:📢 [Project] Proposal Document (CS/CE 224/272-L5)
+UID:47589979-3761-4338-a702-d4d0a086843f@4758.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Originally Posted: 2026-10-09\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70472\n\n<p>Dear all\,</p>\n<p>The solutions for Quiz 01 and Quiz 02 can now be found in the <a title="Class Quiz Solutions" href="https://hulms.instructure.com/courses/5594/modules/35273" data-course-type="modu...
-SUMMARY:📢 [Class Quizzes] Solutions Released (CS/CE 224/272-L5)
-UID:2bd5728f-91b3-49f7-99e2-4dd2dabad5f3@2bd5.org
+DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71726
+DTSTART:20261027T185959Z
+SUMMARY:📝 Prj: Proposal (CS/CE 224/272-L5)
+UID:64b75a07-25ab-4319-817b-cc3c67e0d27a@64b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5364/discussion_topics/70742\n\n<p><span style="color: #9242b4\;">In writing\, tell yourself <strong>the story of who you are</strong>.</span></p>\n<p style="padding-left: 40px\;"><em>'A story is a connected sequence of real or imagined...
+SUMMARY:📢 Today's Warm-up (Writing Prompt) (CND 102-D3)
+UID:8e9bc3ab-f769-4161-919f-bd0d72dffc4b@8e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:Originally Posted: 2026-10-26\nhttps://hulms.instructure.com/courses/5594/discussion_topics/71140\n\n<p>Dear all\,</p>\n<p>The grades for your Midterm have been released. <span>You may discuss them with me during my office hours\, </span><span>or at any other time (confirmed by me on Teams or email).</s...
+SUMMARY:📢 [Midterm] Grades Released (CS/CE 224/272-L5)
+UID:67f1ca65-dd51-4dfb-8305-49fa162a3fa4@67f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/70563
+DTSTART:20260929T185959Z
+SUMMARY:📝 Activity 1- Catch the Pricing Trick (MGMT 320-L1)
+UID:5493abe4-59d0-4473-a3e8-367047aff2b3@5493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40267
+DTSTART:20261212T185959Z
+SUMMARY:📝 Proposal (Khidmat)
+UID:05ad4b83-7c16-4b44-8261-3dedb525b41b@05ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5364/assignments/70967
+DTSTART:20261001T185959Z
+SUMMARY:📝 Retrospective Documentation {Concept: Tacit vs. Explicit Knowledge}  (CND 102-D3)
+UID:757755b1-3d93-4db5-9703-f9613a1aaf90@7577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71906
+DTSTART:20261029T185959Z
+SUMMARY:📝 Assignment 2 (MGMT 320-L1)
+UID:81c2e02d-6028-40e7-a9e2-ea012e54e673@81c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:Originally Posted: 2026-10-01\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70035\n\n<p>Hi guys.&nbsp\;</p>\n<p>Not well. Will not be at Uni today.&nbsp\;</p>\n<p>Some of you wanted to give me discuss your quizzes to me.</p>\n<p>Let's do it tomorrow (hopefully I'll be well enough to drop b...
+SUMMARY:📢 Not at University Today (CS 318-L1)
+UID:9e13167e-e27c-476c-84ff-f774963ae0e0@9e13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71769
+DTSTART:20261013T174500Z
+SUMMARY:📝 LQ2: Lab Quiz 02 (CS/CE 224L/272L-T5)
+UID:d058d0c4-92b9-4f5c-a31e-869ad10a4df4@d058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40814
+DTSTART:20261231T185959Z
+SUMMARY:📝 Report (Khidmat)
+UID:951d8a11-139a-4cb5-b0e3-757ad3636cb6@951d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/71262
+DTSTART:20261002T185959Z
+SUMMARY:📝 01 Project Proposal (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:3af4e9a3-9324-44ab-8946-d1c017cd1cab@3af4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:Originally Posted: 2026-10-14\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70651\n\n<p>Dear Students\,&nbsp\;</p>\n<p>Please note that your sections have been updated. Kindly attend today's Kaavish session as per the new section allocations.&nbsp\;</p>\n<p>Best\,&nbsp\;</p>\n<p>Usman</p>...
+SUMMARY:📢 New Section Allocation (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:bd8a0979-a4dc-41b8-a23c-9f537c129004@bd8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69677
 DTSTART:20261114T185959Z
 SUMMARY:📝 SRS2: Block Diagram + Wireframe (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:1294a3f5-43cf-4f51-9561-4315b9923bbd@1294.org
+UID:e89a503a-eb9d-43ee-b6a0-a62d541566cc@e89a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DESCRIPTION:Originally Posted: 2026-10-27\nhttps://hulms.instructure.com/courses/5364/discussion_topics/71214\n\n<p><strong>Warm Up <br></strong><strong><em>(In Silence)</em></strong></p>\n<ol style="list-style-type: decimal\;">\n<li>Sketch portraits of yourself\, using the front camera of your phone as a mirror</li...
+SUMMARY:📢 Today's Warm Up (Portraiture) (CND 102-D3)
+UID:8987856f-f10b-469c-b641-2e4390ee60dc@8987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/72081
+DTSTART:20261030T185959Z
+SUMMARY:📝 Lab 07 submission (CS/CE 224L/272L-T5)
+UID:7e79c637-e0cb-49ef-898e-34c5c5953539@7e79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Originally Posted: 2026-10-15\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70717\n\n<p>Dear Students\,</p>\n<p>The deadline for&nbsp\;Homework 02 has been extended.</p>\n<p><strong>The homework is now going to be due tomorrow\, Friday (16th October)\, at 11.59 pm.</strong></p>\n<p>Please no...
+SUMMARY:📢 [Homework 02] Deadline (CS/CE 224/272-L5)
+UID:047371f7-32d6-4c60-92ad-b5c5204e88a3@0473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71108
+DTSTART:20261016T185959Z
+SUMMARY:📝 Homework 2 (CS/CE 224/272-L5)
+UID:e1fc8487-1c41-4082-bbd5-22337b5c1ebd@e1fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5524/assignments/69676
+DTSTART:20261107T185959Z
+SUMMARY:📝 SRS1: Requirements (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:b5b2011b-a16c-4bd2-9b50-4ba14888225f@b5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Originally Posted: 2026-10-11\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70519\n\n<p>Dear all\,</p>\n<p>Please find attached a practice question that would be helpful in preparing for Lab Quiz 02: <a class="instructure_file_link instructure_scribd_file inline_disabled" title="Practic...
+SUMMARY:📢 [Practice Question] (CS/CE 224L/272L-T5)
+UID:2ab686a6-9982-4398-82ea-e81b693d74b0@2ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Originally Posted: 2026-10-09\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70472\n\n<p>Dear all\,</p>\n<p>The solutions for Quiz 01 and Quiz 02 can now be found in the <a title="Class Quiz Solutions" href="https://hulms.instructure.com/courses/5594/modules/35273" data-course-type="modu...
+SUMMARY:📢 [Class Quizzes] Solutions Released (CS/CE 224/272-L5)
+UID:0f9daf59-3557-48d5-b6f0-96517afaf791@0f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Originally Posted: 2026-10-12\nhttps://hulms.instructure.com/courses/5281/discussion_topics/70554\n\n<p>Some of you wanted the notes structured as Slides. I've uploaded a few. Give them a look.&nbsp\;</p>\n<p>Note: Your main reference should still be markdown files\, class discussions and the references...
+SUMMARY:📢 Slides Uploaded (CS 318-L1)
+UID:462b7d43-ff26-46dc-9372-5269f283dc62@462b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71073
+DTSTART:20260929T073000Z
+SUMMARY:📝 Challenger Lab submission (CS/CE 224L/272L-T5)
+UID:8fd3cb16-e596-42e8-aebb-af52968d5f16@8fd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:Originally Posted: 2026-10-14\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70677\n\n<p>Dear Students\,</p>\n<p>I've uploaded a sample midterm in the <a title="Course Materials" href="https://hulms.instructure.com/courses/5594/modules/33983" data-course-type="modules" data-published="tr...
+SUMMARY:📢 [Sample Midterm] (CS/CE 224/272-L5)
+UID:8dd33d66-b730-4382-ab04-15752425c1fd@8dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5585/assignments/71333
+DTSTART:20261011T185959Z
+SUMMARY:📝 Lab 06 submission (CS/CE 224L/272L-T5)
+UID:0976657d-e116-4756-8576-a0cacc038eca@0976.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Originally Posted: 2026-09-30\nhttps://hulms.instructure.com/courses/5594/discussion_topics/69972\n\n<p>Hello\,</p>\n<p>HW2 has been released on LMS\, with a due date of October 15th.</p>...
+SUMMARY:📢 HW2 released (CS/CE 224/272-L5)
+UID:6a7674b6-6a56-484c-ab0b-86687e9f6343@6a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5281/assignments/71278
+DTSTART:20261021T185959Z
+SUMMARY:📝 Assignment 2 (CS 318-L1)
+UID:dca3ac01-03c3-44cc-9538-a32f4f4da338@dca3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70897\n\n<p>Dear Students\,</p>\n<p>The grades for your Lab Quiz 02 have been released. You can discuss them with me this week during my office hours (or at any other time confirmed by me on Teams or email) if y...
+SUMMARY:📢 [Lab Quiz 02] Grades Released (CS/CE 224L/272L-T5)
+UID:0381b103-42da-417d-83a1-431b4af005ae@0381.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Originally Posted: 2026-09-29\nhttps://hulms.instructure.com/courses/5585/discussion_topics/69952\n\n<h1 class="css-eg1zre-view-heading" dir="ltr" data-testid="message_title" data-cid="Heading"><span style="font-size: 1rem\; ">Hello\,</span></h1>\n<h1 class="css-eg1zre-view-heading" dir="ltr" data-testi...
+SUMMARY:📢 OOP Session On Pointers tomorrow (CS/CE 224L/272L-T5)
+UID:1cfcf5fb-5a67-466d-8785-ca886ac0b7ca@1cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5594/assignments/71431
+DTSTART:20261002T113500Z
+SUMMARY:📝 Q2: Quiz 2 (CS/CE 224/272-L5)
+UID:c66d8ab4-bf6c-4852-a363-578565707402@c66d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Originally Posted: 2026-10-10\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70504\n\n<p>Dear all\,</p>\n<p>The grades for your Class Quiz 02 have been released. <span>You may discuss them with me during my office hours next week\, </span><span>or at any other time (confirmed by me on Tea...
+SUMMARY:📢 [Quiz 02] Grades Released (CS/CE 224/272-L5)
+UID:1f8a27a8-9300-44cb-b000-59e3dfec7c9a@1f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71521
+DTSTART:20261010T060000Z
+SUMMARY:📝 Activity 2-Strategic & Finance Conflict (MGMT 320-L1)
+UID:262de7b9-917b-4ba1-a778-2b946a2c9753@262d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
 DESCRIPTION:Originally Posted: 2026-10-25\nhttps://hulms.instructure.com/courses/5524/discussion_topics/71100\n\n<p>Dear students\,</p>\n<p>The SRS assignments for Kaavish are released today and are available on Canvas.</p>\n<p><a title="SRS1: Requirements" href="https://hulms.instructure.com/courses/5524/assignmen...
 SUMMARY:📢 SRS Assignments Released  (CS 491-C1\,C2\,C3\,C4\,C5)
-UID:774210b0-6043-43d7-9314-60c38ae957de@7742.org
+UID:b8d9a05f-6a86-46a9-98c4-e12b72dd4964@b8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Originally Posted: 2026-10-09\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70474\n\n<p>Dear Students\,</p>\n<p>The solution for Lab Quiz 01 can now be found in the <a title="Lab Quiz Solutions" href="https://hulms.instructure.com/courses/5585/modules/35282" data-course-type="modules" d...
+SUMMARY:📢 [Lab Quiz] Solution Released (CS/CE 224L/272L-T5)
+UID:d6f34cc2-f629-41dc-917f-422c6145a7c2@d6f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Originally Posted: 2026-09-28\nhttps://hulms.instructure.com/courses/5524/discussion_topics/69857\n\n<p>Dear Kaavish students\,</p>\n<p>Thank you for submitting your proposals.</p>\n<p data-pm-slice="1 1 []"><span>The </span><strong><span>Project Proposal Defense</span></strong><span> will begin this we...
+SUMMARY:📢 Proposal Presentation (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:66fd21b9-b5a9-49aa-8ef6-190ca219ca6c@66fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/5311/assignments/71231
+DTSTART:20261002T134500Z
+SUMMARY:📝 Quiz 1 (MGMT 320-L1)
+UID:d4b1791e-50e1-4fad-aca7-933cad028efb@d4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:Originally Posted: 2026-10-21\nhttps://hulms.instructure.com/courses/5524/discussion_topics/70914\n\n<p data-pm-slice="1 1 []"><span>Dear students\,</span></p>\n<p><span>Today\, all sections will attend a combined session in Tariq Rafi Hall\, where alumni will share their experiences and valuable insight...
+SUMMARY:📢 Kaavish Session Today (Oct 21) - Tariq Rafi Hall (CS 491-C1\,C2\,C3\,C4\,C5)
+UID:5447ea6b-d4f1-4ab8-a9f1-70d7354f5694@5447.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://hulms.instructure.com/courses/802/assignments/40815
+DTSTART:20261231T185959Z
+SUMMARY:📝 Video (Khidmat)
+UID:c8427f3f-cfca-49ab-bbf4-dc69664d994d@c842.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:Originally Posted: 2026-10-07\nhttps://hulms.instructure.com/courses/5594/discussion_topics/70310\n\n<p>Dear all\,</p>\n<p>There’s a correction to the `Student` class in HW2. Precisely\, the current version shows only the member `Course** courses_taken`.</p>\n<p>You’ll need to break this down into two ar...
+SUMMARY:📢 Hw2 correction (CS/CE 224/272-L5)
+UID:63d476e3-cc9f-4d6b-b4cf-1597007203f8@63d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:https://hulms.instructure.com/courses/5364/assignments/71635
 DTSTART:20261014T185959Z
 SUMMARY:📝 Reflection on Ways of Seeing {Concepts: Perception and Identity} (CND 102-D3)
-UID:f81e474b-045a-42cc-966b-bb6a54835180@f81e.org
+UID:0afdf1c8-f440-4c02-9e63-fde23dcc8bc8@0afd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:Originally Posted: 2026-10-08\nhttps://hulms.instructure.com/courses/5585/discussion_topics/70356\n\n<p>Dear Students\,</p>\n<p>Your Lab Quiz 02 will be held on&nbsp\;<strong>Tuesday\, 13th October 2026</strong>.</p>\n<p>The topics included in the quiz are:</p>\n<ul>\n<li>Dynamic Memory Allocation</li>\n<li>...
+SUMMARY:📢 [Lab Quiz 02] 13th October (CS/CE 224L/272L-T5)
+UID:1ce0d617-6c96-4c36-9daa-5b8db68d19c0@1ce0.org
 END:VEVENT
 END:VCALENDAR
